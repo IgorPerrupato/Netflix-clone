@@ -6,5 +6,5 @@ Código responsável por recriar a tela principal da Netflix.
 -Html
 -JavaScript
 -Css
--Jquaries
+-Jquary
 -owl
